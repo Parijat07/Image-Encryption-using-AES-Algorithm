@@ -6,7 +6,7 @@ By utilizing AES encryption, the image is effectively protected during transmiss
 
 
 CLI modes for running the program:
-1. For Encryotion
+1. For Encryption
 python imcrypt.py aes_en -i sq.png -p "smile"
 
 2. For Decryption
